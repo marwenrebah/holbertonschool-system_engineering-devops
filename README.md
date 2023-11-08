@@ -1,6 +1,6 @@
-![Webt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iBstDyO1wFNbfs3X70Jy7w.png)
+![Web Infrastructure](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iBstDyO1wFNbfs3X70Jy7w.png)
 
-# Web Infrastructure Design
+# 🌐 Web Infrastructure Design
 
 Welcome to the Web Infrastructure Design repository! This README provides an overview of essential concepts and considerations when designing a web infrastructure.
 
