@@ -36,8 +36,9 @@ def firewall_rules(incoming_traffic, outgoing_traffic):
 def establish_vpn_connection():
     # Code for establishing a secure VPN connection
     pass
+'''
 
-Server and Web Server
+## Server and Web Server
 Servers are the backbone of web infrastructure. Key concepts include:
 
 # Server Types: Various server types in a web application stack.
