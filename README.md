@@ -1,4 +1,4 @@
-[!https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iBstDyO1wFNbfs3X70Jy7w.png]
+![Webt](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iBstDyO1wFNbfs3X70Jy7w.png)
 
 # Web Infrastructure Design
 
