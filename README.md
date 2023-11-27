@@ -100,3 +100,8 @@ To start designing your web infrastructure, consider the following steps:
 For more in-depth information and implementation details, explore the repository's documentation and additional resources linked in the repository's Wiki or documentation folder.
 
 Thank you for considering our guidelines for web infrastructure design. We wish you success in building a robust and efficient web infrastructure for your applications!
+
+## 👥 Author
+🚀 Marwen Rebah<br>
+📧 Email: 6863@holbertonstudents.com<br>
+👻 Github: https://github.com/marwenrebah
